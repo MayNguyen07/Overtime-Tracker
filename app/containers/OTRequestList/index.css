@@ -1,0 +1,16 @@
+body {
+  font-family: 'HelveticaNeue-Light', 'Helvetica Neue Light', 'Helvetica Neue',
+    Helvetica, Arial, 'Lucida Grande', sans-serif;
+  font-weight: 300;
+  font-size: 15px;
+}
+.striped {
+  padding-top: 2%;
+  /* padding-right: 100px; */
+  padding-left: 20px;
+  border: rgb(255, 0, 157);
+  border-width: 2px;
+  margin-right: 20px;
+  height: 100%;
+  width: 100%;
+}

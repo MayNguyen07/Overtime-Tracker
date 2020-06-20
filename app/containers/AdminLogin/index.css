@@ -1,0 +1,57 @@
+.justify-content{
+  
+    color: white;
+  }
+
+  .login{
+background-image: url('../../commons/adminbackground.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: fixed;
+  background-attachment: fixed;
+  background-position: center;
+  top: 80px;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  content: "";
+  z-index: 0;
+  opacity: 0.7
+  }
+
+  .form{
+    border: 1px solid yellow;  
+    padding: 2%;
+    text-align: center;
+    margin: 200px 450px 200px 450px;
+    background-color:#a0a6ac9e
+    
+}
+.text{
+    padding-top: 0px;
+    
+   margin-top: 0px;
+}
+.styleinput{
+    padding: 20px;
+    padding-left: 0%;
+    margin-bottom: 25px;
+    min-width: 70%;
+    color: black;
+    font-size: 20px;
+    height: 40px  ;
+    
+}
+
+
+.warning  {
+  color: red;
+  font-size: 20px;
+}
+.content{
+  height: 60px;
+  background-color: #003c8f ;
+  padding: 40px;
+ 
+
+}

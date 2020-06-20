@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  font-family: "Lato", sans-serif;
+}
+
+ .sidebar {
+  margin: 0;
+  padding: 0;
+  width: 200px;
+  background-color: #90a4ae;
+
+  min-height: 100%;
+  overflow: auto;
+ 
+}
+
+.sidebar a {
+  display: block;
+  color: black;
+  padding: 16px;
+  text-decoration: none;
+}
+ 
+.sidebar a:hover:not(.active) {
+  background-color: #555;
+  color: white;
+} 
+
+.navbar-dark .navbar-brand {
+  color: #fff;
+}
+.navbar-brand {
+  padding-top: .75rem;
+  padding-bottom: .75rem;
+  font-size: 1rem;
+}
+.navbar .form-control {
+  padding: .75rem 1rem;
+  border-width: 0;
+  border-radius: 0;}
+
+  .w-100 {
+    width: 100%!important;
+}
